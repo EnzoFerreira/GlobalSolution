@@ -1,8 +1,12 @@
 # GlobalSolution
 ______________________
-Sobre o a solução:
+<h2>Sobre o a solução:</h2>
 
--Para o desenvolvimento, utilizamos este Dataset disponivel no <a href="https://www.kaggle.com/datasets/arjuntejaswi/plant-village">Kaggle</a>, que contem as imagens necessárias para o treinamento do do sistema. 
+-Para o desenvolvimento, utilizamos este Dataset disponivel no <a href="https://www.kaggle.com/datasets/arjuntejaswi/plant-village">Kaggle</a>, que contem as imagens necessárias para o treinamento do sistema.
+
+-Caso for tester em seu sistema, recomendamos instalar o Jupyter notebook.
+
+-Instalar no notebook a biblioteca do <a href="https://www.tensorflow.org/install/pip?hl=pt-br">tensorflow</a>.
 ______________________
 <h2>Objetivos</h2>
 -Treinar uma rede neural para detecção de possíveis pragas em plantas e evitar perdas durante o plantio.
