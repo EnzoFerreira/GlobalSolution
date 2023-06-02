@@ -4,7 +4,7 @@ ______________________
 
 -Para o desenvolvimento, utilizamos este Dataset disponivel no <a href="https://www.kaggle.com/datasets/arjuntejaswi/plant-village">Kaggle</a>, que contem as imagens necessárias para o treinamento do sistema.
 
--Caso for tester em seu sistema, recomendamos instalar o Jupyter notebook.
+-Caso for testar em seu sistema, recomendamos instalar o Jupyter notebook.
 
 -Instalar no notebook a biblioteca do <a href="https://www.tensorflow.org/install/pip?hl=pt-br">tensorflow</a>.
 ______________________
